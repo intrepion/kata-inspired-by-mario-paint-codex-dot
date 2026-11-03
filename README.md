@@ -39,3 +39,7 @@ All project code and procedural art are original under [MIT](LICENSE). No Ninten
 Strict TypeScript, Vite and Vitest. Model tests exercise real drawing/fill/stamp/chord operations, JSON validation, cross-mode undo, independent frame copying, room clearing and bounded history. CI runs tests and production build. See [QA](docs/QA.md), [specification](docs/SPEC.md) and [glossary](CONTEXT.md).
 
 Native Chrome acceptance exercised drawing/fill/undo, stamp creation/use, two-frame authoring/playback, music authoring/visual playback, mode retention, clear safeguards, export/import, save/reload and narrow layout. Audible sound was not independently heard; visual playback is distinguished from acoustic acceptance.
+
+## Play online
+
+[Play on GitHub Pages](https://intrepion.github.io/kata-inspired-by-mario-paint-codex-dot/). Return to the [Kata Arcade](https://intrepion.github.io/).
