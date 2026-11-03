@@ -1,6 +1,27 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "gameId": "kata-inspired-by-mario-paint-codex-dot",
   "playUrl": "https://intrepion.github.io/kata-inspired-by-mario-paint-codex-dot/",
-  "screenshots": []
+  "screenshots": [
+    {
+      "path": "arcade/screenshots/ci-20261103-01.jpg",
+      "sha256": "86cd6449f9c20b54f0056ac216a34ebf9cee50a88b1d1d3ad2d6a5219972e2c6",
+      "alt": "Pollen & Paper gameplay",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261103-01.png",
+        "sourceSha256": "3043621c8ea04cd1124f4b0a528299e9ee4dab066311af23da29f0d94b57a5e9",
+        "captureCommit": "d1e5c8c2640d52d749a296504325c305e0db5a48",
+        "workflowRunId": "41619730754",
+        "inputHashes": {
+          "assets/index-BpoVCOjX.js": "d6188ef14c1d6a7a830d9d2aac32f4790e1383d42f4cd62d0d9735ead1c466d3",
+          "assets/index-oHhxov-M.css": "8b540d337467909ac1288b35163ff4519ab549544f3a9422f9624721c8a52055",
+          "index.html": "e900b83f775257866d6a0285b7729e2d390ea17a5a56c5a26212b389f3618556"
+        },
+        "publishedFilesVerifiedAt": "2026-11-03T10:30:54Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261103-record.json",
+        "captureRecordSha256": "85e3d7074bbf598a6532d4c0ccce631eb126a4ef3533ecee80ab3e4be3d5f809"
+      }
+    }
+  ]
 }
